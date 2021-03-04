@@ -1,0 +1,78 @@
+.header {
+    background-color:lightgray;
+    
+
+}
+
+.nav {
+    display:inline-block;
+    width:150px;
+    padding:15px;
+    text-align:center;
+    background-color:#424242;
+    color:white;
+}
+
+.content {
+    background-color:#f2f2f2;
+}
+
+.imageContainer {
+    height:250px;
+    background-color:#666;
+}
+img {
+    max-width:250px;
+}
+
+.left {
+    float:left;
+    width:30%;
+}
+
+.container1 {
+    text-align:center;
+    padding:15px;
+    
+}
+
+.imageFloat {
+    float:left;
+    padding-right:15px;
+    
+}
+
+.container2 {
+    background-color:#999;
+    padding:15px;
+}
+.right {
+    float:right;
+    width:70%;
+}
+
+.heading {
+
+}
+
+.imageContainer {
+    width:100%;
+    padding:25px;
+}
+.imageCard {
+    display:inline-block;
+}
+
+ul {
+    list-style-type: none;
+    
+    
+}
+
+ul li {
+    padding:15px 0;
+}
+
+
+
+
