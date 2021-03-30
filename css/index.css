@@ -13,6 +13,18 @@
     color:white;
 }
 
+.nav a {
+    color:white;
+}
+.nav a:hover {
+    color:#999;
+}
+
+.nav a:visited {
+    text-decoration:none;
+    color:white;
+}
+
 .content {
     background-color:#f2f2f2;
 }
